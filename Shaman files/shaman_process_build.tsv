@@ -1,0 +1,3 @@
+sample	Raw_reads_fwd	Raw_mean_length_fwd	Raw_median_length_fwd	Raw_reads_rev	Raw_mean_length_rev	Raw_median_length_rev	Trimmed_fwd	Trimmed_rev	Filtered_reads_fwd	Filtered_mean_length_fwd	Filtered_median_length_fwd	Filtered_reads_rev	Filtered_mean_length_rev	Filtered_median_length_rev	Combined pairs	Uncombined pairs	Selected_dereplication	Selected_singleton	Selected_chimera	Selected_otu	Mapped_reads	Mapping_percent_combined
+sample1.fastq	163068	302	302	163068	302	302	162696	162696	284	285	162696	278	281	161930	162696	74519	2642	2434	111	146111	89.81
+sample2.fastq	87927	302	302	87927	302	302	87708	87708	284	285	87708	278	281	87258	87708	51199	1364	1305	84	77198	88.02
